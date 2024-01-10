@@ -1,3 +1,8 @@
+# IMDb Database Query Tool
+
+This repository contains a Python script for interacting with the IMDb dataset using natural language queries. The script utilizes the OpenAI API and SQLite database to provide information from the dataset in response to user queries.
+
+### 1)
 ### High-Level Architecture Description
 
 **Frameworks:**  
@@ -53,10 +58,7 @@ Pros: Advanced features like concurrency, scalability, full-text search.
 Cons: More complex and resource-intensive.
 
 ---
-
-# IMDb Database Query Tool
-
-This repository contains a Python script for interacting with the IMDb dataset using natural language queries. The script utilizes the OpenAI API and SQLite database to provide information from the dataset in response to user queries.
+### 2)
 
 ## Functions
 
